@@ -1,4 +1,5 @@
 #include <stdio.h>
+hihi
 #include <dirent.h>
 #include <fcntl.h>
 #include <readline/history.h>
